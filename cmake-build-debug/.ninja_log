@@ -1,5 +1,25 @@
 # ninja log v6
-7	418	7399252981781375	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	7bf4c01331a29a50
-425	610	7399252985964570	RubicksCubeSolver.exe	5a63c55cfb9b94c5
 6	337	7399254213481747	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	7bf4c01331a29a50
 338	417	7399254216798556	RubicksCubeSolver.exe	5a63c55cfb9b94c5
+47	3906	7401328989818992	CMakeFiles/RubicksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.obj	f524a82f5ec94c0e
+36	3976	7401328989707840	CMakeFiles/RubicksCubeSolver.dir/Model/RubiksCube3d.cpp.obj	22c0d2decb2bcb03
+31	4018	7401328989657330	CMakeFiles/RubicksCubeSolver.dir/Model/GenericRubiksCube.cpp.obj	19815dd4317f9f3a
+41	4027	7401328989758479	CMakeFiles/RubicksCubeSolver.dir/Model/RubiksCube1d.cpp.obj	f36f7913cb5a2179
+22	4126	7401328989575830	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	4ec2c2c0331d252
+4126	4502	7401329030613816	RubicksCubeSolver.exe	84d2b15a0c94aadd
+20	2018	7401329266252494	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	4ec2c2c0331d252
+2019	2127	7401329286239622	RubicksCubeSolver.exe	84d2b15a0c94aadd
+18	2128	7401329418253144	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	4ec2c2c0331d252
+2129	2244	7401329439357695	RubicksCubeSolver.exe	84d2b15a0c94aadd
+25	2049	7401329595735664	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	4ec2c2c0331d252
+2050	2161	7401329615988602	RubicksCubeSolver.exe	84d2b15a0c94aadd
+19	2137	7401329782359748	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	4ec2c2c0331d252
+2137	2248	7401329803541122	RubicksCubeSolver.exe	84d2b15a0c94aadd
+23	2231	7401330813570106	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	4ec2c2c0331d252
+2232	2341	7401330835656530	RubicksCubeSolver.exe	84d2b15a0c94aadd
+8	2105	7401332429043975	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	4ec2c2c0331d252
+2105	2222	7401332450023534	RubicksCubeSolver.exe	84d2b15a0c94aadd
+21	2216	7401332579880212	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	4ec2c2c0331d252
+2217	2327	7401332601830654	RubicksCubeSolver.exe	84d2b15a0c94aadd
+19	2154	7401332932120104	CMakeFiles/RubicksCubeSolver.dir/main.cpp.obj	4ec2c2c0331d252
+2154	2275	7401332953469127	RubicksCubeSolver.exe	84d2b15a0c94aadd

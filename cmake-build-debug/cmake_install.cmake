@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/hp/CLionProjects/RubicksCubeSolver
+# Install script for directory: C:/Users/hp/CLionProjects/RubiksCubeSolver
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/hp/CLionProjects/RubicksCubeSolver/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/hp/CLionProjects/RubiksCubeSolver/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
