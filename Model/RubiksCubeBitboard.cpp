@@ -2,7 +2,7 @@
 // Created by hp on 15-06-2024.
 //
 
-#include "GenericRubiksCube.h";
+#include "GenericRubiksCube.h"
 
 class RubiksCubeBitBoard : public GenericRubiksCube {
 private:
